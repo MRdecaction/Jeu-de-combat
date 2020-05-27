@@ -9,9 +9,9 @@ class Personnage {
   private $_degats;
 
   // Déclarations des constantes en rapport avec la force.
-  const FORCE_PETITE = 20;
-  const FORCE_MOYENNE = 50;
-  const FORCE_GRANDE = 80;
+  const FORCE_PETITE = 10;
+  const FORCE_MOYENNE = 20;
+  const FORCE_GRANDE = 30;
 
 
 
